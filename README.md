@@ -2,7 +2,7 @@
 好想工作室 diss deep JS 讀書會 coding workshop，共學力量大。
 
 ## 主題：[F2E挑戰](https://challenge.thef2e.com/works?orderBy=created_at&sort=desc&stage=1)
-- 筆記平台（第九關）
+- [筆記平台（第九關）設計稿](https://xd.adobe.com/spec/74e00c80-c920-40d4-6df1-17d7b941243d-02d1/grid)
 - mp3 播放器（第三關）
 - 聊天室（第七關）
   
